@@ -1,0 +1,2 @@
+So this is the first day learning Flutter, I've read and watch several articles and video about Flutter, to resolve What, and How about it.
+This took a big chunk out of my daily allocated for learning purpose, so that's it, a little bit disappoint for the first commit :D
